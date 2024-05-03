@@ -1,4 +1,3 @@
-// 2. usando a lib fakerjs (https://www.npmjs.com/package/@faker-js/faker) crie uma função que retorna dados de uma pessoa falsa contendo nome, email e data de nascimento.
 import { faker } from '@faker-js/faker/locale/pt_BR';
 
 function createRandomUser() {
